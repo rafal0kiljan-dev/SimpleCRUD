@@ -7,7 +7,7 @@
 
 > [!NOTE]
 > # To do list
-> - [x] Connect to Microsoft SQL Server
+> - [x] Connect to database Microsoft SQL Server
 > - [x] Add row to DB
 > - [x] Modify row in DB
 > - [x] Delete row in DB
